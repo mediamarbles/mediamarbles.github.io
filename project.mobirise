@@ -43,11 +43,12 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "html_before": "",
+    "html_before": "<script type=\"text/javascript\"> //<![CDATA[ \r\nvar tlJsHost = ((window.location.protocol == \"https:\") ? \"https://secure.comodo.com/\" : \"http://www.trustlogo.com/\");\r\ndocument.write(unescape(\"%3Cscript src='\" + tlJsHost + \"trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E\"));\r\n//]]>\r\n</script>",
     "headbody": "",
-    "botbody": "",
+    "botbody": "<script language=\"JavaScript\" type=\"text/javascript\">\r\nTrustLogo(\"https://leanby.design/assets/images/comodo-secure-seal-100x85-transp-100x85.png\", \"CL1\", \"none\");\r\n</script>\r\n<a  href=\"https://ssl.comodo.com\" id=\"comodoTL\">SSL Certificates</a>",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {

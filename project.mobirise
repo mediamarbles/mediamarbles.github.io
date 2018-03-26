@@ -1697,7 +1697,8 @@
               "text-align": "center"
             },
             ".mbr-text P": {
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             }
           },
           "_name": "content1",

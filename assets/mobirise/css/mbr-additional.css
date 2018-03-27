@@ -2406,6 +2406,43 @@ body {
 .cid-qNw78cxyeW .mbr-text {
   color: #232323;
 }
+.cid-qNwr1ZG9Ba {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qNwr1ZG9Ba .counter-container {
+  color: #767676;
+}
+.cid-qNwr1ZG9Ba .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qNwr1ZG9Ba .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qNwr1ZG9Ba .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border-radius: 0;
+  content: '✓';
+}
+.cid-qNwr1ZG9Ba .mbr-text UL {
+  color: #232323;
+}
 .cid-qNqPUkujZM {
   padding-top: 90px;
   padding-bottom: 90px;

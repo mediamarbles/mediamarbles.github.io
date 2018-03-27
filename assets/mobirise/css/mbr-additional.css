@@ -2748,6 +2748,9 @@ body {
 .cid-qNuGRQn3Ni blockquote {
   color: #767676;
 }
+.cid-qNuGRQn3Ni .mbr-text P {
+  color: #232323;
+}
 .cid-qNksoddJZX {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2809,4 +2812,7 @@ body {
 .cid-qNuJdFiPXx .mbr-text,
 .cid-qNuJdFiPXx blockquote {
   color: #767676;
+}
+.cid-qNuJdFiPXx .mbr-text P {
+  color: #232323;
 }

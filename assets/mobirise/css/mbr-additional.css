@@ -2719,20 +2719,25 @@ body {
   text-align: left;
 }
 .cid-qNw9tkNV64 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #9ab7bf;
 }
 .cid-qNw9tkNV64 .testimonial-text {
   font-style: italic;
   font-weight: 300;
+  color: #232323;
 }
 .cid-qNw9tkNV64 .mbr-author-name {
   font-weight: bold;
+  color: #232323;
 }
 .cid-qNw9tkNV64 .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
+}
+.cid-qNw9tkNV64 .mbr-author-desc {
+  color: #232323;
 }
 .cid-qNwaRWYzsd {
   padding-top: 60px;
@@ -2893,8 +2898,8 @@ body {
   color: #232323;
 }
 .cid-qNxTHo4XiJ {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #f3f4f6;
 }
 .cid-qNxTHo4XiJ .testimonial-text {
